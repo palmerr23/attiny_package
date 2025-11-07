@@ -1709,9 +1709,10 @@
             }
           ]
         }
-      ]
+			]
+		},
 
-    },
+
     {
       "name": "DxCore",
       "maintainer": "Spence Konde",
